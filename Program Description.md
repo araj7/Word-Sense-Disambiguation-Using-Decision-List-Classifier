@@ -11,4 +11,5 @@ The above command learns a decision list from line-train.xml and applies that de
 
 ### Data Description
 
-line-train.xml contains examples of the word line used in the sense of a phone line and a product line where the correct sense is marked in the text (to serve as an example from which to learn). linetest.xml contains sentences that use the word line without any sense being indicated, where the correct answer is found in the file line-answers.txt. The line-train.xml and linetest.xml are available in the directory directory called line-data. 
+line-train.xml contains examples of the word line used in the sense of a phone line and a product line where the correct sense is marked in the text (to serve as an example from which to learn). linetest.xml contains sentences that use the word line without any sense being indicated, where the correct answer is found in the file line-answers.txt. The line-train.xml and linetest.xml are available in the directory directory called line-data. The program decision-list.py learns its decision list from line-train.xml and
+applies that to line-test.xml. 
