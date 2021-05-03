@@ -1,4 +1,4 @@
-# Word-Sense-Disambuguation-Using-Decision-List-Classifier
+# Word Sense Disambuguation Using Decision List Classifier
 
 ### Program
 
