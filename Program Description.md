@@ -2,8 +2,7 @@
 
 ### Program
 
-The program implements a decision list classifier to perform word sense disambiguation. The program uses features from Yarowsky’s method which resulted
-in an accurate classifier for our program. 
+The program implements a decision list classifier to perform word sense disambiguation. It uses features from Yarowsky’s method which resulted in an accurate classifier.
 
 ##### *python decision-list.py line-train.xml line-test.xml my-decision-list.txt > my-line-answers.txt*
 
